@@ -1,5 +1,21 @@
 # Changes
 
+## [1.15.1](https://github.com/googleapis/google-cloud-go/compare/datastore/v1.15.0...datastore/v1.15.1) (2024-01-19)
+
+
+### Bug Fixes
+
+* **datastore:** Add explicit sleep before read time use ([#9080](https://github.com/googleapis/google-cloud-go/issues/9080)) ([0538be4](https://github.com/googleapis/google-cloud-go/commit/0538be457518f7b86ffcabcbad35496f053f38cc))
+* **datastore:** Bump google.golang.org/api to v0.149.0 ([8d2ab9f](https://github.com/googleapis/google-cloud-go/commit/8d2ab9f320a86c1c0fab90513fc05861561d0880))
+* **datastore:** Update golang.org/x/net to v0.17.0 ([174da47](https://github.com/googleapis/google-cloud-go/commit/174da47254fefb12921bbfc65b7829a453af6f5d))
+* **datastore:** Update grpc-go to v1.56.3 ([343cea8](https://github.com/googleapis/google-cloud-go/commit/343cea8c43b1e31ae21ad50ad31d3b0b60143f8c))
+* **datastore:** Update grpc-go to v1.59.0 ([81a97b0](https://github.com/googleapis/google-cloud-go/commit/81a97b06cb28b25432e4ece595c55a9857e960b7))
+
+
+### Documentation
+
+* **datastore:** Replace deprecated func in docs ([#8989](https://github.com/googleapis/google-cloud-go/issues/8989)) ([19414ae](https://github.com/googleapis/google-cloud-go/commit/19414ae4326104872dfe780ca9fccc4312e4e089))
+
 ## [1.15.0](https://github.com/googleapis/google-cloud-go/compare/datastore/v1.14.0...datastore/v1.15.0) (2023-10-06)
 
 
