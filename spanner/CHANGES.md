@@ -1,5 +1,13 @@
 # Changes
 
+## [1.56.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.55.0...spanner/v1.56.0) (2024-01-19)
+
+
+### Features
+
+* **spanner:** Add proto and enum types ([00b9900](https://github.com/googleapis/google-cloud-go/commit/00b990061592a20a181e61faa6964b45205b76a7))
+* **spanner:** Add SelectAll method to decode from Spanner iterator.Rows to golang struct ([#9206](https://github.com/googleapis/google-cloud-go/issues/9206)) ([802088f](https://github.com/googleapis/google-cloud-go/commit/802088f1322752bb9ce9bab1315c3fed6b3a99aa))
+
 ## [1.55.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.54.0...spanner/v1.55.0) (2024-01-08)
 
 
